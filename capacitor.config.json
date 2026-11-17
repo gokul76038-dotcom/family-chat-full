@@ -1,0 +1,6 @@
+{
+  "appId": "com.gokul.familychat",
+  "appName": "Family Chat",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
