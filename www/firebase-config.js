@@ -1,11 +1,10 @@
-// Paste your Firebase web app config values below
 window.FIREBASE_CONFIG = {
-  apiKey: "PASTE_HERE",
-  authDomain: "PASTE_HERE",
-  projectId: "PASTE_HERE",
-  storageBucket: "PASTE_HERE",
-  messagingSenderId: "PASTE_HERE",
-  appId: "PASTE_HERE"
+  apiKey: "AIzaSy...",
+  authDomain: "உங்கproject.firebaseapp.com",
+  projectId: "உங்கproject",
+  storageBucket: "உங்கproject.firebasestorage.app",
+  messagingSenderId: "123456789",
+  appId: "1:123456789:web:abc123"
 };
 window.ICE_SERVERS = [
   { urls: "stun:stun.l.google.com:19302" },
